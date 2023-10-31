@@ -19,7 +19,7 @@ button:hover {
   background-color: #ff7fff;
   color: #fff;
   cursor: pointer;
-}p
+}
 
 .input-area {
   background-color: #c1ffff;
@@ -30,7 +30,7 @@ button:hover {
   border-radius: 8px;
 }
 
-.imcomplete-area {
+.incomplete-area {
   background-color: #c6ffe2;
   width: 400px;
   min-height: 200px;
